@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(255, 255, 255, 0.753);
+}
+#form1{
+    padding: 25px;
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.459);
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
+#div{
+    padding: 25px;
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.144);
+    width: 230px;
+}
+#titulo{
+    padding: 25px;
+    margin: auto;
+
+    width: 230px;
+}
+table{
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+#div2{
+    float: right;
+}
+#div1{
+    float: left;
+}
+#form2{
+    padding: 25px;
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.459);
+    width: 500px;
+}
